@@ -1,0 +1,13 @@
+﻿  Stack.cpp
+c:\users\15597\source\vs-workspace\stack\stack\stack.cpp(42): warning C4244: “参数”: 从“int”转换到“ElemType”，可能丢失数据
+          with
+          [
+              ElemType=float
+          ]
+c:\users\15597\source\vs-workspace\stack\stack\stack.cpp(51): warning C4244: “参数”: 从“double”转换到“ElemType”，可能丢失数据
+          with
+          [
+              ElemType=float
+          ]
+c:\users\15597\source\vs-workspace\stack\stack\stack.cpp(30): warning C4715: “calculate”: 不是所有的控件路径都返回值
+  Stack.vcxproj -> C:\Users\15597\source\vs-workspace\Stack\Debug\Stack.exe
